@@ -22,4 +22,3 @@ FuelPHP is fully PHP 7 compatible.
 * Crisantos Villa Brayan
 * Ulises Jaffet
 * Reyes Gomez Julio Cesar
-* 
